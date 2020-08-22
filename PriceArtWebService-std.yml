@@ -1,15 +1,15 @@
 #Application Config
 application:
-listino: 1
-sconto: 0
+ listino: 1
+ sconto: 0
 
 
 # ==============================================================
 # = Actuator Info
 # ==============================================================
 info:
-assistenza:
-nome = "Nicola Beneduce"
-nome:
-nome-app = "PriceArt web Service"
-profilo: "GitHub"
+ assistenza:
+  nome = "Nicola Beneduce"
+ nome:
+  nome-app = "PriceArt web Service"
+ profilo: "GitHub"
